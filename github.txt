@@ -1,0 +1,19 @@
+download git from https://git-scm.com/downloads
+
+go to folder
+
+git init
+
+git status 
+
+git add .
+
+git status
+
+git commit -m "demo file committed"
+
+go to github 
+
+create repository
+
+
